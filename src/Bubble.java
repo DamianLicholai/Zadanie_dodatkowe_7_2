@@ -1,5 +1,5 @@
 public class Bubble {
-    void b_sort(int array[]) {
+    public void b_sort(int array[]) {
         int temp;
         int change = 1;
         while (change > 0) {
